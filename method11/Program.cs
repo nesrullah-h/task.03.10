@@ -8,41 +8,51 @@ namespace method11
         {
             int[] array = { -5, 4, 0, -9, -10, 1 };
 
-
-            Method(array);
+           
+            Console.WriteLine(array);
         }
         #region
-        static int[] Method(int[] arr)
+        static int Method(int[] arr)
+            //task 1
+
         {
-            for (int i = 0; i < arr.Length; i++)
-            {
-                if (arr[i] < 0)
+            for (int i = 0; i < arr.Length; i++) 
+            
+                if (arr[i] < 0) 
                 {
-                    arr[i] = arr[i] * (-1);
-
-
+                    arr[i] = arr[i] * -1;
+                    
                 }
-                Console.Write(arr[i]);
-            }
-            return arr;
+                else
+                {
+                    arr[i] = arr[i];
+                    
+                }
+            return  0;
 
 
 
         }
         #endregion
 
+        //task 2
+        
+        //{
+        //    #region
 
+        //    string word = "School";
+        //    string mirror = "";
+        //    int length = word.Length - 1;
 
+        //    while (length >= 0)
+        //    {
+        //        mirror += word[length];
+        //        length--;
+        //    }
 
-
-
-
-
-
-
-
-
-
+        //    Console.WriteLine(mirror);
+        //    #endregion
+        //}
 
 
 
