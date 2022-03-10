@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.AssemblyInfo.cs
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\method11\method11\bin\Debug\netcoreapp3.1\method11.exe
+C:\Users\User\Desktop\method11\method11\bin\Debug\netcoreapp3.1\method11.deps.json
+C:\Users\User\Desktop\method11\method11\bin\Debug\netcoreapp3.1\method11.runtimeconfig.json
+C:\Users\User\Desktop\method11\method11\bin\Debug\netcoreapp3.1\method11.runtimeconfig.dev.json
+C:\Users\User\Desktop\method11\method11\bin\Debug\netcoreapp3.1\method11.dll
+C:\Users\User\Desktop\method11\method11\bin\Debug\netcoreapp3.1\method11.pdb
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.dll
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.pdb
+C:\Users\User\Desktop\method11\method11\obj\Debug\netcoreapp3.1\method11.genruntimeconfig.cache
